@@ -44,8 +44,7 @@ The model achieved high classification accuracy and good generalization on unsee
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/personality-prediction-ml.git
-   cd personality-prediction-ml
-````
+   cd personality-prediction-ml ````
 
 2. Install dependencies (optional):
 
